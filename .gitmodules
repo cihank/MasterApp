@@ -1,0 +1,3 @@
+[submodule "lib/ModuleApp"]
+	path = lib/ModuleApp
+	url = https://github.com/cihank/ModuleApp.git
